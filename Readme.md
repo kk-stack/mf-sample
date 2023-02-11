@@ -5,8 +5,7 @@ This repo consists of three projects(MFE's). These projects are run and built se
 ## Micro Front Ends
 1. [**mf-host**](./mf-host) This is the host or the stitching layer. Consumes mf-consultation
 2. [**mf-bidi**](./mf-bidi) This MFE will be a bi-directional host module. Exposes itself and consumes mf-components
-3. [**mf-components**](./mf-components) This MFE will act as the component library for Bahmni. It will have components from Carbon along with custom components built for Bahmni use
-  
+3. [**mf-components**](./mf-components) This MFE will act as the component library
 ## Setup Steps
 We will be able to set the project for development where each MFE will run on its own port 
 
